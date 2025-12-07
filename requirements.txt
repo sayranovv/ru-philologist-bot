@@ -1,0 +1,15 @@
+python-telegram-bot==20.7
+asyncio-contextmanager
+pymorphy3==1.2.1
+pymorphy3-dicts-ru
+SQLAlchemy==2.0.23
+aiohttp==3.9.1
+pydantic==2.5.0
+python-dotenv==1.0.0
+loguru==0.7.2
+pytest==7.4.3
+pytest-asyncio==0.21.1
+aiofiles==23.2.1
+pyspellchecker==0.8.1
+gigachat==0.1.35
+
